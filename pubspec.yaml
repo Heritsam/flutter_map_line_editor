@@ -27,7 +27,7 @@ dependencies:
 
   flutter_map_dragmarker:
     git:
-      url: https://github.com/ibrierley/flutter_map_dragmarker.git         
+      url: https://github.com/Heritsam/flutter_map_dragmarker.git         
 
 
 dev_dependencies:
